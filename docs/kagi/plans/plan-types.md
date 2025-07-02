@@ -52,7 +52,7 @@ If you find that you are consistently running out of searches at the end of each
 If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to premium AI models.
 
 ### Understand Your Consumption
-
+### those who know
 Kagi has a feature to check your [current search usage](https://kagi.com/settings?p=consumption) if you are interested in really taking apart your consumption.
 
 ### Fair Pricing
